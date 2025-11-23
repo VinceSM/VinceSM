@@ -31,6 +31,8 @@ Aplicación Web Inmobiliaria diseñada para conectar directamente a propietarios
 
 **Repositorio:** [https://github.com/VinceSM/MiramarInmobiliario](https://github.com/VinceSM/MiramarInmobiliario)
 
+“El código es privado por motivos de seguridad, pero puedo otorgar acceso a reclutadores o empresas interesadas.”
+
 ---
 
 ### 📌 DeliveryYa
@@ -55,6 +57,8 @@ El backend está unificado y estructurado bajo el patrón MVC (Model-View-Contro
 * Backend: [https://github.com/VinceSM/DeliveryYaBackend](https://github.com/VinceSM/DeliveryYaBackend)
 * Frontend Comercio: [https://github.com/VinceSM/DeliveryYaFrontend](https://github.com/VinceSM/DeliveryYaFrontend)
 * Frontend Cliente: [https://github.com/VinceSM/ClienteFrontend](https://github.com/VinceSM/ClienteFrontend)
+
+“El código es privado por motivos de seguridad, pero puedo otorgar acceso a reclutadores o empresas interesadas.”
 
 ---
 
